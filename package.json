@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/jalro93/ProductosEcologicos#readme",
   "dependencies": {
-    "dayjs": "^1.11.19"
+    "dayjs": "^1.11.19",
+    "file": "^0.2.2",
+    "system": "^2.0.1"
   }
 }
