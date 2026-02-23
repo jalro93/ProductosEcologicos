@@ -1,0 +1,24 @@
+{
+  "name": "productosecologicos",
+  "version": "1.0.0",
+  "description": "El alumno actuará como desarrollador backend para una tienda de productos ecológicos. El objetivo es crear un script de Node.js (pedido.js) que procese la información de una compra, realice cálculos de impuestos y determine la fecha estimada de entrega.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalro93/ProductosEcologicos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jalro93/ProductosEcologicos/issues"
+  },
+  "homepage": "https://github.com/jalro93/ProductosEcologicos#readme",
+  "dependencies": {
+    "dayjs": "^1.11.19"
+  }
+}
